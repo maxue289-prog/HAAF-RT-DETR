@@ -1,0 +1,8 @@
+path: /root/YOLOv11/datasets/images  # 数据集所在路径
+train: train  # 数据集路径下的train.txt
+val: val  # 数据集路径下的val.txt
+test: test  # 数据集路径下的test.txt
+
+# Classes
+names:
+  0: iw
